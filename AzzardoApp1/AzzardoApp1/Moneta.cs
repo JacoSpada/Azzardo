@@ -8,6 +8,7 @@ namespace AzzardoApp1
 {
     class Moneta:Azzardo
     {
+        private static Random random = new Random();
         private String ValoreMoneta;
         public override void Lancio()
         {

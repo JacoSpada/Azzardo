@@ -8,6 +8,7 @@ namespace AzzardoApp1
 {
     class Dado:Azzardo
     {
+        private static Random random = new Random();
         public override void Lancio ()
         {
         
