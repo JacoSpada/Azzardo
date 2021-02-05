@@ -25,6 +25,12 @@ namespace AzzardoApp1
             mioMoneta.Lancio();
 
 
+            test mioTest1 = new test();
+            mioTest1.PopolaArray();
+            mioTest1.StampaSomma();
+
+
+
 
         }
     }
